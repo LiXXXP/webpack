@@ -1,0 +1,21 @@
+
+body{
+    transform:rotate(2deg);
+}
+.logo{
+    width:100px;
+    height:100px;
+    background:url("../images/confirm.png") no-repeat;
+}
+.w{
+    color:#fff;
+}
+.e{
+    color:#fff;
+}
+.b{
+    color:#fff;
+}
+.c{
+    color:#fff;
+}
